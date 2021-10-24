@@ -14,6 +14,4 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="10%" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/python/python.svg"></code>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ```not sleeping```
