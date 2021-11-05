@@ -16,10 +16,13 @@
 
 - 🔭 I’m currently working on ```not sleeping```
 
-<div>
- #### Github Stats
- <img src="https://github-readme-stats.vercel.app/api?username=anthonp&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-</div>
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=anthonp&show_icons=true&theme=gotham" alt="github stats" width="65%" />
+
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonp&theme=dark" width="48%" >
+
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonp&layout=compact)
