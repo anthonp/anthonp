@@ -15,3 +15,6 @@
 <code><img width="10%" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/python/python.svg"></code>
 
 - 🔭 I’m currently working on ```not sleeping```
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
