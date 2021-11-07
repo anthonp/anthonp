@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ```not sleeping```
 
-#### Github Stats
+### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=anthonp&show_icons=true&theme=gotham" alt="github stats" width="65%" />
 
 
