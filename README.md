@@ -6,6 +6,9 @@
 - 🔭 I’m currently working on ```not sleeping```
 - A Yahtzee game in Python for my final.
 
+### Certs:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9ead342d-f609-462d-b742-0bcff0c1bc2a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=anthonp&show_icons=true&theme=gotham" alt="github stats" width="65%" />
 
