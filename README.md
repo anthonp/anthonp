@@ -7,8 +7,8 @@
 - A Yahtzee game in Python for my final.
 
 ### Certs:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9ead342d-f609-462d-b742-0bcff0c1bc2a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<img src="https://images.credly.com/size/220x220/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png">
+     
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=anthonp&show_icons=true&theme=gotham" alt="github stats" width="65%" />
 
