@@ -7,6 +7,7 @@
 
 ### Certs:
 <img src="https://images.credly.com/size/220x220/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png">
+<img src="https://images.credly.com/size/220x220/images/446e08ae-bbb5-4648-b85d-24b9a939eb8d/CompTIA_Security_2B.png">
      
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=anthonp&show_icons=true&theme=gotham" alt="github stats" width="65%" />
