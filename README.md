@@ -15,3 +15,6 @@
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonp&layout=compact)
+
+### THM
+ <img src="https://tryhackme-badges.s3.amazonaws.com/CtrlAltDelete.png" alt="TryHackMe">
